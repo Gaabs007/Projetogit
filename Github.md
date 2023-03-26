@@ -1,4 +1,4 @@
-Comandos:
+Comandos: :) 
 git --version -> verifica a verção do git instalada e se realmente ela esta no computador;
 
 git init cria um repositorio git dentro de uma pasta especifica;
