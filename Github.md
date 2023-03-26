@@ -24,3 +24,5 @@ git checkout (nome da branch) esse comando alterna entre as branchs;
 
 git push -u origin main; manda o que esta salvo no git para o github;
 commit são as versões do arquivo no git;
+
+git merge (nome da branch secundaria) esse comando vai mandar a branch secundaria para a principal
